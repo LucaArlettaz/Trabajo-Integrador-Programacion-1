@@ -1,6 +1,8 @@
-Trabajo-Integrador-Programacion-1
+## Trabajo-Integrador-Programacion-1
 
-Trabajo integrador de programacion, codigo fuente archivo.py, PDF.
+Trabajo integrador de programacion, archivo.py, PDF.
+
+Alumno: Luca Giovanni Arlettaz - luca.arlettaz@tupad.utn.edu.ar
 
 ENLACE DEL VIDEO EN YOUTUBE (CUANTO ESTÉ)
 
