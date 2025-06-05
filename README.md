@@ -14,7 +14,7 @@ Este proyecto corresponde al Trabajo Integrador de la materia Programación I, y
 
 Se aplicaron específicamente la búsqueda lineal, búsqueda binaria, Insertion Sort para observar sus diferencias de rendimiento y condiciones de uso.
 
-El enfoque orientado a entender la eficiencia de cada algoritmo, su aplicabilidad en distintos contextos, y cómo elegir correctamente según el tipo de datos a procesar.
+El enfoque está orientado a entender la eficiencia de cada algoritmo, su aplicabilidad en distintos contextos, y cómo elegir correctamente según el tipo de datos a procesar.
 
 
 ## Estructura del Código
