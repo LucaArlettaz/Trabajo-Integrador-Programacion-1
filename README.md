@@ -4,7 +4,7 @@ Trabajo integrador de programacion, archivo.py, PDF.
 
 Alumno: Luca Giovanni Arlettaz - luca.arlettaz@tupad.utn.edu.ar
 
-Enlace del video trabajo integrador: https://youtu.be/ZlRxVPtxiVg
+Enlace del video trabajo integrador: https://youtu.be/0VB5qrhNsHw
 
 ## Descripción del Proyecto
 
