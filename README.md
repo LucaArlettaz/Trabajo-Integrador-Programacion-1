@@ -6,7 +6,7 @@ Alumno: Luca Giovanni Arlettaz - luca.arlettaz@tupad.utn.edu.ar
 
 ENLACE DEL VIDEO EN YOUTUBE (CUANTO ESTÉ)
 
-Descripción del Proyecto
+## Descripción del Proyecto
 
 Algoritmos de Búsqueda y Ordenamiento en Python
 
@@ -17,7 +17,7 @@ Se aplicaron específicamente la búsqueda lineal, búsqueda binaria, Insertion 
 El enfoque orientado a entender la eficiencia de cada algoritmo, su aplicabilidad en distintos contextos, y cómo elegir correctamente según el tipo de datos a procesar.
 
 
-Estructura del Código
+## Estructura del Código
 
 insertion_sort(lista): Ordena la lista usando el algoritmo Insertion Sort.
 
