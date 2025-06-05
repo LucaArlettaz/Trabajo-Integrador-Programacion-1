@@ -27,6 +27,8 @@ busqueda_binaria(lista, valor): Busca un valor en una lista previamente ordenada
 
 Pruebas de funcionamiento con una lista de enteros predefinida.
 
+## Conclusiones
+
 Realizar este proyecto permitió comprender en profundidad cómo funcionan los algoritmos de búsqueda y ordenamiento, cuál es su complejidad y en qué situaciones conviene usar cada uno.
 
 La búsqueda lineal es fácil de implementar y útil en listas pequeñas o no ordenadas.
