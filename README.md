@@ -6,7 +6,7 @@ Alumno: Luca Giovanni Arlettaz - luca.arlettaz@tupad.utn.edu.ar
 
 Comisión 1
 
-Enlace del video trabajo integrador: https://youtu.be/0VB5qrhNsHw
+Enlace del video trabajo integrador: https://www.youtube.com/watch?v=QCaMjqQGCFw
 
 ## Descripción del Proyecto
 
